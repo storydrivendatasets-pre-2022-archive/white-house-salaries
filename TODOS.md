@@ -4,8 +4,9 @@ Cookie version: 2018.07.28 [Removed unused directories]
 
 ## Next step
 
-[ ] - Convert Trump PDFs
-[ ] - hand correct data in data/corrected
+[x] - Convert Trump PDFs
+[x] - hand correct data in data/corrected
+[x] - Write Python script to parse and verify data/corrected files
 [ ] - Import vanilla/bootstrap
 
 

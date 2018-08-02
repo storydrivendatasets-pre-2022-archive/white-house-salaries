@@ -214,9 +214,9 @@ Dziadosz, Anna K.           Employee    $78,500.00   Per Annum   ASSOCIATE DIREC
 Edmonds, Anita J.           Employee    $81,200.00   Per Annum   ASSISTANT SUPERVISOR FOR RECORDS MANAGEMENT
 
 Eisenberg, John A.          Employee   $165,000.00   Per Annum   DEPUTY COUNSEL TO THE PRESIDENT FOR NATIONAL SECURITY AFFAIRS AND LEGAL ADVISOR TO THE NATIONAL SECURITY COUNCIL
-                                                                 DEPUTY ASSISTANT TO THE PRESIDENT FOR INTERNATIONAL ECONOMIC AFFAIRS AND DEPUTY DIRECTOR OF THE NATIONAL ECONOMIC
-Eissenstat, Everett H.      Employee   $165,000.00   Per Annum
-                                                                 COUNCIL
+
+Eissenstat, Everett H.      Employee   $165,000.00   Per Annum   DEPUTY ASSISTANT TO THE PRESIDENT FOR INTERNATIONAL ECONOMIC AFFAIRS AND DEPUTY DIRECTOR OF THE NATIONAL ECONOMIC COUNCIL
+
 El-Fakir, Alexander T.      Employee    $57,100.00   Per Annum   SPECIAL ASSISTANT
 
 Eliot, Deirdre Z.           Detailee   $164,100.00   Per Annum   SENIOR ASSOCIATE COUNSEL
@@ -416,9 +416,9 @@ Karnes, Katlyn L.         Employee    $90,700.00   Per Annum   DEPUTY CHIEF DIGI
 Keller, Catherine B.      Employee   $165,000.00   Per Annum   DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY STAFF SECRETARY
 
 Kelly, John F.            Employee   $179,700.00   Per Annum   ASSISTANT TO THE PRESIDENT AND CHIEF OF STAFF
-                                                               ASSISTANT TO THE PRESIDENT AND DIRECTOR OF WHITE HOUSE MANAGEMENT AND ADMINISTRATION AND DIRECTOR OF THE OFFICE OF
-Kelly, Marcia L.          Employee   $179,700.00   Per Annum
-                                                               ADMINISTRATION
+
+Kelly, Marcia L.          Employee   $179,700.00   Per Annum   ASSISTANT TO THE PRESIDENT AND DIRECTOR OF WHITE HOUSE MANAGEMENT AND ADMINISTRATION AND DIRECTOR OF THE OFFICE OF ADMINISTRATION
+
 Kelly, Nijah C.           Employee    $51,500.00   Per Annum   INFORMATION SERVICES OPERATOR
 
 Kennedy, Adam R.          Employee   $115,000.00   Per Annum   SPECIAL ASSISTANT TO THE PRESIDENT AND DIRECTOR OF RESEARCH

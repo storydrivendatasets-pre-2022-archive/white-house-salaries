@@ -221,17 +221,17 @@ Dumbauld, Cassidy M.      Employee    $77,000.00   Per Annum   PROJECT MANAGER
 Eason, William J.         Employee    $77,000.00   Per Annum   LEAD PRESS REPRESENTATIVE
 
 Edmonds, Anita J.         Employee    $66,008.00   Per Annum   ASSISTANT SUPERVISOR FOR CLASSIFICATION
-                                                               DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY COUNSEL TO THE PRESIDENT FOR NATIONAL SECURITY AFFAIRS AND LEGAL ADVISOR TO THE
-Eisenberg, John A.        Employee   $165,000.00   Per Annum
-                                                               NATIONAL SECURITY COUNCIL
+
+Eisenberg, John A.        Employee   $165,000.00   Per Annum   DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY COUNSEL TO THE PRESIDENT FOR NATIONAL SECURITY AFFAIRS AND LEGAL ADVISOR TO THE NATIONAL SECURITY COUNCIL
+
 Eisner‐Poor, Kaitlyn E.   Employee    $77,000.00   Per Annum   EXECUTIVE ASSISTANT
-                                                               DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF THE NATIONAL ECONOMIC COUNCIL AND INTERNATIONAL ECONOMIC
-Eissenstat, Everett H.    Employee   $165,000.00   Per Annum
-                                                               AFFAIRS
+
+Eissenstat, Everett H.    Employee   $165,000.00   Per Annum   DEPUTY ASSISTANT TO THE PRESIDENT AND DEPUTY DIRECTOR OF THE NATIONAL ECONOMIC COUNCIL AND INTERNATIONAL ECONOMIC AFFAIRS
+
 El‐Fakir, Alexander T.    Employee    $42,000.00   Per Annum   RESEARCH ANALYST
-                                                               SPECIAL ASSISTANT TO THE PRESIDENT AND SENIOR ASSOCIATE COUNSEL TO THE PRESIDENT AND DEPUTY LEGAL ADVISOR TO THE NATIONAL
-Ellis, Michael J.         Employee   $130,000.00   Per Annum
-                                                               SECURITY COUNCIL
+
+Ellis, Michael J.         Employee   $130,000.00   Per Annum   SPECIAL ASSISTANT TO THE PRESIDENT AND SENIOR ASSOCIATE COUNSEL TO THE PRESIDENT AND DEPUTY LEGAL ADVISOR TO THE NATIONAL SECURITY COUNCIL
+
 Epstein, Daniel Z.        Employee   $119,000.00   Per Annum   ASSOCIATE COUNSEL TO THE PRESIDENT
 
 Espinoza, Jonathan        Employee    $47,000.00   Per Annum   EXECUTIVE ASSISTANT
@@ -425,9 +425,9 @@ Katz, Jeremy L.           Employee   $165,000.00   Per Annum   DEPUTY ASSISTANT 
 Keel, Benjamin N.         Detailee    $94,796.00   Per Annum   EXECUTIVE DIRECTOR FOR WHITE HOUSE COUNCIL ON NATIVE AMERICAN AFFAIRS
 
 Kellogg, Jr., Joseph K.   Employee   $179,700.00   Per Annum   ASSISTANT TO THE PRESIDENT AND EXECUTIVE SECRETARY AND CHIEF OF STAFF FOR THE NATIONAL SECURITY COUNCIL
-                                                               DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF WHITE HOUSE MANAGEMENT AND ADMINISTRATION AND DIRECTOR OF THE OFFICE
-Kelly, Marcia L.          Employee   $165,000.00   Per Annum
-                                                               OF ADMINISTRATION
+
+Kelly, Marcia L.          Employee   $165,000.00   Per Annum   DEPUTY ASSISTANT TO THE PRESIDENT AND DIRECTOR OF WHITE HOUSE MANAGEMENT AND ADMINISTRATION AND DIRECTOR OF THE OFFICE OF ADMINISTRATION
+
 
 
 

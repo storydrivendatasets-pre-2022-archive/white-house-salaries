@@ -7,8 +7,7 @@ Parsing and comparing the White House payrolls of the Obama and Trump administra
 
 The PDF-to-XLS-to-CSV conversion (using ABBYY) of the 2017 and 2018 PDFS can be found in: [data/raw/abbyy](data/raw/abbyy). A poppler flat text conversion can be found in [data/raw/poppler](data/raw/poppler).
 
-Currently stalling on how to programtically clean the crappy 2018 conversion.
-
+Decided to use the [poppler](data/raw/poppler) conversions and hand-correct the few lines in ``2017.txt``. and ``2018.txt``. The tentative corrected versions can be found in [data/corrected](data/corrected) (note: it's still unstructured text, not CSV)
 
 
 ## Data links
