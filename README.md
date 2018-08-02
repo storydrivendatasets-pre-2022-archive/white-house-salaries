@@ -3,6 +3,13 @@ White House Salaries
 
 Parsing and comparing the White House payrolls of the Obama and Trump administrations.
 
+## Status
+
+The PDF-to-XLS-to-CSV conversion (using ABBYY) of the 2017 and 2018 PDFS can be found in: [data/raw/abbyy](data/raw/abbyy). A poppler flat text conversion can be found in [data/raw/poppler](data/raw/poppler).
+
+Currently stalling on how to programtically clean the crappy 2018 conversion.
+
+
 
 ## Data links
 
